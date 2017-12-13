@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Движ</string>
+    <string name="prompt_password">Пароль</string>
+    <string name="action_sign_in">Ввойти или за регистрироваться</string>
+    <string name="action_sign_in_short">Ввойти</string>
+    <string name="error_invalid_email">Этот Email не допустим</string>
+    <string name="error_invalid_password">Этот пароль слишком короткий</string>
+    <string name="error_incorrect_password">Этот пароль не коректный</string>
+    <string name="error_field_required">Это поле обезательно</string>
+    <string name="edit_message">Введите сообщение</string>
+    <string name="send">Отправить</string>
+</resources>
